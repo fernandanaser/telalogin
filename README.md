@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Cute login screen ♡</h2>
+  <h2>♡ Cute login screen ♡</h2>
   </div>
 
 <div align="center">
